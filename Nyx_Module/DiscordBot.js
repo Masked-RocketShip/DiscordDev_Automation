@@ -46,7 +46,8 @@ function NPM_PKG_Creator(Name, Version, Description, Main_File, Author, License=
         "dependencies": {
           "colors": "^1.4.0",
           "discord.js": "^13.6.0",
-          "dotenv": "^15.0.0"
+          "dotenv": "^15.0.0",
+          "node-fetch": "^3.2.0"
         }
       }
     `;
